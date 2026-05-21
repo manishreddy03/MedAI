@@ -1,0 +1,20 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Outer dark circle -->
+  <circle cx="256" cy="256" r="256" fill="#0D6E4E"/>
+  <!-- Inner teal circle -->
+  <circle cx="256" cy="256" r="232" fill="#1D9E75"/>
+  <!-- Medical cross - vertical -->
+  <rect x="218" y="140" width="76" height="232" rx="16" fill="white"/>
+  <!-- Medical cross - horizontal -->
+  <rect x="140" y="218" width="232" height="76" rx="16" fill="white"/>
+  <!-- AI brain center dot dark -->
+  <circle cx="256" cy="256" r="28" fill="#0D6E4E"/>
+  <!-- Three AI dots -->
+  <circle cx="245" cy="250" r="5" fill="white"/>
+  <circle cx="267" cy="250" r="5" fill="white"/>
+  <circle cx="256" cy="265" r="5" fill="white"/>
+  <!-- Pulse line left -->
+  <polyline points="60,256 100,256 120,210 140,302 160,240 180,256 210,256" fill="none" stroke="white" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" opacity="0.5"/>
+  <!-- Pulse line right -->
+  <polyline points="302,256 330,256 350,210 370,302 390,240 410,256 452,256" fill="none" stroke="white" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" opacity="0.5"/>
+</svg>
